@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class DORotate : MonoBehaviour
+public class RotationChanger : MonoBehaviour
 {
     private Vector3 _rotation = new Vector3(0, 0, 30);
     private float _duration = 2f;

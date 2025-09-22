@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class DOColor : MonoBehaviour
+public class ColorChanger : MonoBehaviour
 {
     [SerializeField] private Material _material;
     [SerializeField] private Color _color;

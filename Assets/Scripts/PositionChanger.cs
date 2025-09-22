@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class DOMove : MonoBehaviour
+public class PositionChanger : MonoBehaviour
 {
     private Vector3 _position = new Vector3(0, 3, -7);
     private float _duration = 2f;
